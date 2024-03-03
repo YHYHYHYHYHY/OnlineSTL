@@ -1,6 +1,6 @@
 import numpy as np
 import math
-from filters import TrendFilter, SymTrendFilter, SeasonalityFilter
+from Filters import TrendFilter, SymTrendFilter, SeasonalityFilter
 
 
 # Ensure that the input length is larger than 4 * m (m represents the largest period)
